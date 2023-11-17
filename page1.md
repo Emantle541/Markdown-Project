@@ -10,4 +10,4 @@ For example, to denote a heading, you add a number sign before it (e.g., # Headi
 - [Next: Information about Me!](page2.md)
 
 
-[^1] Source: https://www.markdownguide.org/getting-started/
+[^1]: Source: https://www.markdownguide.org/getting-started/
